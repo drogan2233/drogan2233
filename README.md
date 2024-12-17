@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @drogan2233
+- 👋 Hi, I’m Natalia
 - 👀 I’m interested in WEB 3.0
 - 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on dogecoin
+- 💞️ I’m looking to collaborate on BTC
 - 📫 How to reach me tag me on twitter
 - 😄 Pronouns: Get the hell outta here
 - ⚡ Fun fact: cats are funny
